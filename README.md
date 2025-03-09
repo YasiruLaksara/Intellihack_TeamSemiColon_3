@@ -1,11 +1,8 @@
-# Intellihack_TeamSemiColon_3Here’s a concise *README.md* file in markdown format based on your implementation:
-
-markdown
 # Qwen 2.5-3B Fine-Tuning for AI Research Q&A
 
 This project fine-tunes the **Qwen 2.5-3B-Instruct** model to enhance its ability to answer AI research-related questions by leveraging recent research papers, technical blogs, and documents. The goal is to create a specialized model capable of retrieving, interpreting, and generating accurate responses based on technical AI literature.
 
-📌 **Pretrained Model & Code References**
+**Pretrained Model & Code References**
 - **Fine-Tuned Model**: [Qwen2.5-3B-Instruct (4-bit)](https://huggingface.co/IsaraLi/TeamSemiColon_unsloth.Q4_K_M.gguf/tree/main)
 - **Inference Script**: [Download Here](https://drive.google.com/file/d/1H5Y0q9ygZyXxDB76rn2oyDDANJdQuDpm/view?usp=sharing)
 
@@ -47,4 +44,4 @@ The fine-tuned model can be deployed for AI research Q&A with optimized inferenc
 This fine-tuning process successfully optimized **Qwen2.5-3B-Instruct** for AI research Q&A. The model now exhibits enhanced reasoning and accuracy in answering technical questions from research papers and AI literature.
 
 ---
-🚀 **Developed with Unsloth, QLoRA, and DeepEval**
+**Developed with Unsloth, QLoRA, and DeepEval**
