@@ -1,0 +1,462 @@
+[
+    {
+        "Instruction": "What is the name of the service that sends a dump-chunkmeta request to",
+        "Answer": "The service sends a dump-chunkmeta request to the successor"
+    },
+    {
+        "Instruction": "What is the teacher model used for?",
+        "Answer": "to generate 800K training samples"
+    },
+    {
+        "Instruction": "What does the shared storage layer help you create?",
+        "Answer": "distributed applications"
+    },
+    {
+        "Instruction": "What are the most common questions that GPUs may have?",
+        "Answer": "communications"
+    },
+    {
+        "Instruction": "What did we use to generate questions?",
+        "Answer": "rule-based rewards"
+    },
+    {
+        "Instruction": "What are the names of the individuals who have departed from our team?",
+        "Answer": "Names marked with *"
+    },
+    {
+        "Instruction": "What does the system wait for after the computation has finished?",
+        "Answer": "all-to-all communication"
+    },
+    {
+        "Instruction": "What are the questions you can generate from?",
+        "Answer": "the backward for input is used for the calculation of backward for weight"
+    },
+    {
+        "Instruction": "What is the first phase of the model?",
+        "Answer": "reasoning-intensive tasks such as coding, mathematics, science, and logic reasoning"
+    },
+    {
+        "Instruction": "What does CRAQ not issue version query to the tail target?",
+        "Answer": "implementation"
+    },
+    {
+        "Instruction": "What is the dataset used to generate questions from?",
+        "Answer": "DeepSeek-V3"
+    },
+    {
+        "Instruction": "What is the chain table used to generate?",
+        "Answer": "A is paired with every other SSDs"
+    },
+    {
+        "Instruction": "What is the name of the paper that was published in 2021?",
+        "Answer": "CoRR"
+    },
+    {
+        "Instruction": "What is the metric used to measure GPU hours?",
+        "Answer": "Ideal"
+    },
+    {
+        "Instruction": "What is the name of the file that is stored on multiple storage services?",
+        "Answer": "Each chunk"
+    },
+    {
+        "Instruction": "What are the most common types of questions that can be generated?",
+        "Answer": "Read operations exhibit more complex patterns"
+    },
+    {
+        "Instruction": "What is the PRM?",
+        "Answer": "Process Reward Model"
+    },
+    {
+        "Instruction": "What is the abs/1712.01815?",
+        "Answer": "URL"
+    },
+    {
+        "Instruction": "What is the total GPU hours?",
+        "Answer": "5K GPU hours"
+    },
+    {
+        "Instruction": "What does the design of the meta services allow for?",
+        "Answer": "process requests in parallel while maintaining file system metadata consistency"
+    },
+    {
+        "Instruction": "What does 3FS generate questions from?",
+        "Answer": "concurrent writes"
+    },
+    {
+        "Instruction": "What is the name of the question that is generated?",
+        "Answer": "The chain version"
+    },
+    {
+        "Instruction": "What does FUSE use to generate questions?",
+        "Answer": "concurrency"
+    },
+    {
+        "Instruction": "What is the name of the paper that describes the strategy that is used to duplicate heavy-loaded experts",
+        "Answer": "DeepSeek-V3"
+    },
+    {
+        "Instruction": "What are the names of the directory entry keys?",
+        "Answer": "DENT\" prefix, the parent inode ID, and the entry name"
+    },
+    {
+        "Instruction": "What does 3FS generate?",
+        "Answer": "file data"
+    },
+    {
+        "Instruction": "What is the inner square root term?",
+        "Answer": "2"
+    },
+    {
+        "Instruction": "What did the distilled 14B model outperform the open-source QwQ-32",
+        "Answer": "open-source QwQ-32B-Preview"
+    },
+    {
+        "Instruction": "How many training samples are collected?",
+        "Answer": "600k"
+    },
+    {
+        "Instruction": "What is the main reason for the need for additional training resources?",
+        "Answer": "reward hacking"
+    },
+    {
+        "Instruction": "What are the most common questions that are generated from the model?",
+        "Answer": "Model performance"
+    },
+    {
+        "Instruction": "What are the main questions that you can ask about DeepSeek-V3?",
+        "Answer": "its performance exceeds the OpenAI model"
+    },
+    {
+        "Instruction": "What does the software generate?",
+        "Answer": "accuracy"
+    },
+    {
+        "Instruction": "What is the purpose of the daily unlocks?",
+        "Answer": "every line shared becomes collective momentum that accelerates the journey"
+    },
+    {
+        "Instruction": "What are the cold start questions?",
+        "Answer": "to prevent the early unstable cold start phase of RL training"
+    },
+    {
+        "Instruction": "What do we generate questions from?",
+        "Answer": "DeepSeek-V3"
+    },
+    {
+        "Instruction": "What are the values that are grouped in high precision?",
+        "Answer": "some values"
+    },
+    {
+        "Instruction": "What is the name of the feature that allows you to generate questions from?",
+        "Answer": "Fine-Grained Quantization"
+    },
+    {
+        "Instruction": "What are the metadata services used to generate questions from?",
+        "Answer": "file system semantics"
+    },
+    {
+        "Instruction": "What is the name of the service that generates questions from?",
+        "Answer": "RDMA Read"
+    },
+    {
+        "Instruction": "What are the questions that can be generated from the Latent Diffusion model?",
+        "Answer": "compress and decompress the input data"
+    },
+    {
+        "Instruction": "What is the name of the application that struggles with language mixing?",
+        "Answer": "DeepSeek-R1-Zero"
+    },
+    {
+        "Instruction": "What does the profile employ for decoding?",
+        "Answer": "EP128, TP1"
+    },
+    {
+        "Instruction": "What does the cluster manager generate?",
+        "Answer": "updates the public states of targets"
+    },
+    {
+        "Instruction": "How was the Llama 403b trained?",
+        "Answer": "11x"
+    },
+    {
+        "Instruction": "What does 3FS store in FoundationDB?",
+        "Answer": "all metadata as key-value pairs"
+    },
+    {
+        "Instruction": "What is the version number of each chain?",
+        "Answer": "Target 1"
+    },
+    {
+        "Instruction": "What is the SFT dataset used for?",
+        "Answer": "DeepSeek-V3"
+    },
+    {
+        "Instruction": "What is the first question that can be asked about the model?",
+        "Answer": "can the model achieve comparable performance"
+    },
+    {
+        "Instruction": "What is the name of the tree-search that can help with large language model decoding and training",
+        "Answer": "Alphazero"
+    },
+    {
+        "Instruction": "What are the questions generated from DeepSeek-R1-Zero?",
+        "Answer": "reasoning-related benchmarks"
+    },
+    {
+        "Instruction": "When no available physical blocks remain, fallocate() will be used to create 256 new physical",
+        "Answer": "<code>fallocate"
+    },
+    {
+        "Instruction": "What is the most important question that can be generated?",
+        "Answer": "STEM"
+    },
+    {
+        "Instruction": "What can a compiler generate questions from?",
+        "Answer": "predefined test cases"
+    },
+    {
+        "Instruction": "What are the names of the people who can help you?",
+        "Answer": "Ma Ying Tang Yukun Zha Yuting Yan Z.Z"
+    },
+    {
+        "Instruction": "What is the name of the tokens that AlphaGo uses?",
+        "Answer": "value model"
+    },
+    {
+        "Instruction": "What is the name of the algorithm that selects Kr experts with high score?",
+        "Answer": "Topk"
+    },
+    {
+        "Instruction": "What does the backward for input do?",
+        "Answer": "computation of the gradient of the loss with respect to the input data"
+    },
+    {
+        "Instruction": "How long is the maximum generation length?",
+        "Answer": "32,768 tokens"
+    },
+    {
+        "Instruction": "What is the DeepSeek model trained on?",
+        "Answer": "2048 H800 GPUs"
+    },
+    {
+        "Instruction": "What are the requests generated from?",
+        "Answer": "batches"
+    },
+    {
+        "Instruction": "What is the local committed version of the service?",
+        "Answer": "the tail"
+    },
+    {
+        "Instruction": "What does the storage service set the target's local state to up-to-date in subsequent",
+        "Answer": "heartbeat messages"
+    },
+    {
+        "Instruction": "What is the model's reasoning ability?",
+        "Answer": "growing"
+    },
+    {
+        "Instruction": "What should be transferred if the chain versions of local/remote chunk replicas are the",
+        "Answer": "local committed version number"
+    },
+    {
+        "Instruction": "What is the average pass@1 score on AIME 2024?",
+        "Answer": "15.6%"
+    },
+    {
+        "Instruction": "What can be generated from the hierarchical load balancing policy?",
+        "Answer": "smaller expert-parallel size"
+    },
+    {
+        "Instruction": "What is the name of the author of the book?",
+        "Answer": "D. Cummings"
+    },
+    {
+        "Instruction": "What are the questions that DeepSeek-R1 generate?",
+        "Answer": "OpenAI-o1-1217"
+    },
+    {
+        "Instruction": "What are the rewards for DeepSeek-R1-Zero?",
+        "Answer": "Accuracy rewards"
+    },
+    {
+        "Instruction": "What is the 32B base model?",
+        "Answer": "14  Model AIME 2024"
+    },
+    {
+        "Instruction": "What did DeepSeek generate one additional token?",
+        "Answer": "computational cost"
+    },
+    {
+        "Instruction": "What is the name of the feature that 3FS provides?",
+        "Answer": "Performance and Usability"
+    },
+    {
+        "Instruction": "What is the DeepSeek-R1-Zero training program?",
+        "Answer": "a steady and consistent enhancement in performance"
+    },
+    {
+        "Instruction": "What are the most common questions that can be asked by LLM?",
+        "Answer": "Mixed precision training"
+    },
+    {
+        "Instruction": "What do we use to train CoT?",
+        "Answer": "language mixing"
+    },
+    {
+        "Instruction": "What does the allocation strategy ensure?",
+        "Answer": "balanced data distribution"
+    },
+    {
+        "Instruction": "What does DeepSeek-R1-Distill-Qwen-7B score on",
+        "Answer": "55.5%"
+    },
+    {
+        "Instruction": "What are the names of the questions that you can ask?",
+        "Answer": "Su Xuheng Lin X.Q"
+    },
+    {
+        "Instruction": "What should be generated from the weight matrix?",
+        "Answer": "compression"
+    },
+    {
+        "Instruction": "What do MTP modules send out?",
+        "Answer": "output of prediction"
+    },
+    {
+        "Instruction": "What do the models interact with the reinforcement learning environment?",
+        "Answer": "behaviors"
+    },
+    {
+        "Instruction": "What are the researchers trying to get out of DeepSeek-V3 model?",
+        "Answer": "reduce precision"
+    },
+    {
+        "Instruction": "What does DeepSeek-R1-Zero naturally learn to solve reasoning tasks with more",
+        "Answer": "thinking time"
+    },
+    {
+        "Instruction": "What will the allocator assign to the blocks whose sizes match the actual chunk size?",
+        "Answer": "physical blocks whose sizes"
+    },
+    {
+        "Instruction": "What are the main questions of the DeekSeek-V3 model?",
+        "Answer": "core architecture"
+    },
+    {
+        "Instruction": "What is the name of the test?",
+        "Answer": "DeepSeek-R1-Distill-Qwen"
+    },
+    {
+        "Instruction": "What is the CoT in few-shot that may hurt the performance of DeepSeek-R",
+        "Answer": "DeepSeek-R1"
+    },
+    {
+        "Instruction": "What does a storage service do when it finds a previously offline successor is online?",
+        "Answer": "starts to forward normal write requests to the successor"
+    },
+    {
+        "Instruction": "What are the most common questions that can be generated from the MLA database?",
+        "Answer": "speed and memory"
+    },
+    {
+        "Instruction": "What does get the chunk metadata and reference-counted handle from?",
+        "Answer": "hashmap cache"
+    },
+    {
+        "Instruction": "What are the questions generated from?",
+        "Answer": "agentless framework"
+    },
+    {
+        "Instruction": "What is the name of the cs.CL database?",
+        "Answer": "arXiv:2501.12948v1"
+    },
+    {
+        "Instruction": "What are the questions that are generated from?",
+        "Answer": "micro-batches"
+    },
+    {
+        "Instruction": "What do applications call to obtain a file descriptor?",
+        "Answer": "<code>open()</code>"
+    },
+    {
+        "Instruction": "What language might DeepSeek-R1 use?",
+        "Answer": "English"
+    },
+    {
+        "Instruction": "What are the primary questions for cluster managers?",
+        "Answer": "one of them is elected as the primary"
+    },
+    {
+        "Instruction": "What is the first limitation of PRM?",
+        "Answer": "it is challenging to explicitly define a fine-grain step in general reasoning"
+    },
+    {
+        "Instruction": "What do we collect to refine DeepSeek-V3-Base model?",
+        "Answer": "thousands of cold-start data"
+    },
+    {
+        "Instruction": "What does a storage service do when it receives a write request?",
+        "Answer": "reject"
+    },
+    {
+        "Instruction": "What is the name of the next-generation Gemini model?",
+        "Answer": "Gemini 1.5, 2024"
+    },
+    {
+        "Instruction": "What are the first questions we want to ask?",
+        "Answer": "how long CoT can be leveraged to enhance tasks in these fields"
+    },
+    {
+        "Instruction": "What does DeepSeek-R1-Zero generate questions from?",
+        "Answer": "test-time compu- tation"
+    },
+    {
+        "Instruction": "What did we generate from DeepSeek-R1?",
+        "Answer": "distillation"
+    },
+    {
+        "Instruction": "What are the Qwen and Llama series of books based on?",
+        "Answer": "distilled"
+    },
+    {
+        "Instruction": "Clients can connect to any storage service.",
+        "Answer": "Clients can connect to any metadata service"
+    },
+    {
+        "Instruction": "What is the name of the game that DeepSeek-R1-Zero can generate",
+        "Answer": "DeepSeek-R1-Zero"
+    },
+    {
+        "Instruction": "What are the rules used to decide which chunks should be transferred?",
+        "Answer": "<ul> <li>"
+    },
+    {
+        "Instruction": "What are the researchers looking at in the moment?",
+        "Answer": "its behavior"
+    },
+    {
+        "Instruction": "What do we train the model using?",
+        "Answer": "a combination of reward signals and diverse prompt distributions"
+    },
+    {
+        "Instruction": "What is the most common type of RL used in software engineering tasks?",
+        "Answer": "large-scale"
+    },
+    {
+        "Instruction": "What is the name of the book that opens a new question from OpenAI?",
+        "Answer": "SimpleQA"
+    },
+    {
+        "Instruction": "What does the training profile data show?",
+        "Answer": "our overlapping strategy"
+    },
+    {
+        "Instruction": "What is the main feature of DeepSeek-R1-Zero?",
+        "Answer": "poor readability, and language mixing"
+    },
+    {
+        "Instruction": "What is the name of the DeepSeek-R1?",
+        "Answer": "Reinforcement Learning with Cold Start"
+    }
+]

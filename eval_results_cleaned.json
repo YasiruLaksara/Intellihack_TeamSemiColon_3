@@ -1,0 +1,692 @@
+[
+    {
+        "Instruction": "What is the rule-based RM used to generate questions from?",
+        "Answer": "specific rules",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the rule-based RM used to generate questions from?\n\n### Input:\n\n\n### Response:\nspecific rules<|im_end|>",
+        "Generated_Response": "DeepSeek-V3"
+    },
+    {
+        "Instruction": "What are the requests generated from?",
+        "Answer": "batches",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the requests generated from?\n\n### Input:\n\n\n### Response:\nbatches<|im_end|>",
+        "Generated_Response": "repeatedly"
+    },
+    {
+        "Instruction": "What does DeepSeek-R1-Zero generate questions from?",
+        "Answer": "reasoning process, followed by the final answer",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat does DeepSeek-R1-Zero generate questions from?\n\n### Input:\n\n\n### Response:\nreasoning process, followed by the final answer<|im_end|>",
+        "Generated_Response": "all possible questions"
+    },
+    {
+        "Instruction": "What is the name of the book that was published in 2022?",
+        "Answer": "Nature",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the name of the book that was published in 2022?\n\n### Input:\n\n\n### Response:\nNature<|im_end|>",
+        "Generated_Response": "DeepSeek-R1"
+    },
+    {
+        "Instruction": "What is the purpose of the daily unlocks?",
+        "Answer": "every line shared becomes collective momentum that accelerates the journey",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the purpose of the daily unlocks?\n\n### Input:\n\n\n### Response:\nevery line shared becomes collective momentum that accelerates the journey<|im_end|>",
+        "Generated_Response": "the rewards are distributed to the community"
+    },
+    {
+        "Instruction": "What is the name of the version of Deepseek-prover?",
+        "Answer": "v1.5",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the name of the version of Deepseek-prover?\n\n### Input:\n\n\n### Response:\nv1.5<|im_end|>",
+        "Generated_Response": "1.2"
+    },
+    {
+        "Instruction": "What are the most common questions that can be asked from LLMs?",
+        "Answer": "Large Language Models",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the most common questions that can be asked from LLMs?\n\n### Input:\n\n\n### Response:\nLarge Language Models<|im_end|>",
+        "Generated_Response": "cold-start model"
+    },
+    {
+        "Instruction": "What is the name of the service that exits when a storage service exits?",
+        "Answer": "Data recovery",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the name of the service that exits when a storage service exits?\n\n### Input:\n\n\n### Response:\nData recovery<|im_end|>",
+        "Generated_Response": "The storage service"
+    },
+    {
+        "Instruction": "What can researchers use to create their own models?",
+        "Answer": "DeekSeek models",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat can researchers use to create their own models?\n\n### Input:\n\n\n### Response:\nDeekSeek models<|im_end|>",
+        "Generated_Response": "preprint"
+    },
+    {
+        "Instruction": "What is the state of the predecessor copied to the returning service?",
+        "Answer": "The full",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the state of the predecessor copied to the returning service?\n\n### Input:\n\n\n### Response:\nThe full<|im_end|>",
+        "Generated_Response": "initial state"
+    },
+    {
+        "Instruction": "What does DeepSeek-R1 demonstrate superior performance against?",
+        "Answer": "DeepSeek-V3",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat does DeepSeek-R1 demonstrate superior performance against?\n\n### Input:\n\n\n### Response:\nDeepSeek-V3<|im_end|>",
+        "Generated_Response": "DeepSeek-R1"
+    },
+    {
+        "Instruction": "What is the CRAQ write-all-read-any approach?",
+        "Answer": "helps to unleash the throughput",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the CRAQ write-all-read-any approach?\n\n### Input:\n\n\n### Response:\nhelps to unleash the throughput<|im_end|>",
+        "Generated_Response": "CRAQ"
+    },
+    {
+        "Instruction": "What is the name of the book that is based on the agentless method?",
+        "Answer": "arXiv preprint",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the name of the book that is based on the agentless method?\n\n### Input:\n\n\n### Response:\narXiv preprint<|im_end|>",
+        "Generated_Response": "DeepSeek-R1"
+    },
+    {
+        "Instruction": "What will open-source 5 repos starting this week?",
+        "Answer": "Feb 24, 2025",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat will open-source 5 repos starting this week?\n\n### Input:\n\n\n### Response:\nFeb 24, 2025<|im_end|>",
+        "Generated_Response": "30% of the time"
+    },
+    {
+        "Instruction": "What are the version numbers of pending versions?",
+        "Answer": "<code>v</code>",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the version numbers of pending versions?\n\n### Input:\n\n\n### Response:\n<code>v</code><|im_end|>",
+        "Generated_Response": "2024.08.16.001 and 2024.08.16.002"
+    },
+    {
+        "Instruction": "What is the name of the method that DeepSeek invented to reduce bubble?",
+        "Answer": "bubble",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the name of the method that DeepSeek invented to reduce bubble?\n\n### Input:\n\n\n### Response:\nbubble<|im_end|>",
+        "Generated_Response": "R1"
+    },
+    {
+        "Instruction": "What are the main questions that can be generated from the 3FS system?",
+        "Answer": "cluster manager, metadata service, storage service and client",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the main questions that can be generated from the 3FS system?\n\n### Input:\n\n\n### Response:\ncluster manager, metadata service, storage service and client<|im_end|>",
+        "Generated_Response": "the storage services"
+    },
+    {
+        "Instruction": "What did OpenAI generate?",
+        "Answer": "inference-time scaling",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat did OpenAI generate?\n\n### Input:\n\n\n### Response:\ninference-time scaling<|im_end|>",
+        "Generated_Response": "an instruction that describes a task"
+    },
+    {
+        "Instruction": "What is the most powerful aspect of reinforcement learning?",
+        "Answer": "beauty",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the most powerful aspect of reinforcement learning?\n\n### Input:\n\n\n### Response:\nbeauty<|im_end|>",
+        "Generated_Response": "the ability to generate questions and answers"
+    },
+    {
+        "Instruction": "What is the first open research to validate that reasoning capabilities of LLMs can be incen",
+        "Answer": "RL",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the first open research to validate that reasoning capabilities of LLMs can be incen\n\n### Input:\n\n\n### Response:\nRL<|im_end|>",
+        "Generated_Response": "the DeepSeek-R1"
+    },
+    {
+        "Instruction": "What would be a big burden on meta service and FoundationDB?",
+        "Answer": "Storing all file descriptors",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat would be a big burden on meta service and FoundationDB?\n\n### Input:\n\n\n### Response:\nStoring all file descriptors<|im_end|>",
+        "Generated_Response": "the write load"
+    },
+    {
+        "Instruction": "What is the most common question that researchers can ask?",
+        "Answer": "test-time scaling",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the most common question that researchers can ask?\n\n### Input:\n\n\n### Response:\ntest-time scaling<|im_end|>",
+        "Generated_Response": "the performance of a model"
+    },
+    {
+        "Instruction": "What is the HumanEval-Mul dataset?",
+        "Answer": "eight mainstream programming languages",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the HumanEval-Mul dataset?\n\n### Input:\n\n\n### Response:\neight mainstream programming languages<|im_end|>",
+        "Generated_Response": "HumanEval-Mul"
+    },
+    {
+        "Instruction": "What are the meta services that cluster manager provides?",
+        "Answer": "online",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the meta services that cluster manager provides?\n\n### Input:\n\n\n### Response:\nonline<|im_end|>",
+        "Generated_Response": "the storage services"
+    },
+    {
+        "Instruction": "What are the IOPS of removing ops from garbage collection?",
+        "Answer": "The bottom figure",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the IOPS of removing ops from garbage collection?\n\n### Input:\n\n\n### Response:\nThe bottom figure<|im_end|>",
+        "Generated_Response": "2000000"
+    },
+    {
+        "Instruction": "What are the two techniques to prevent quantization error?",
+        "Answer": "visualized in following figure",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the two techniques to prevent quantization error?\n\n### Input:\n\n\n### Response:\nvisualized in following figure<|im_end|>",
+        "Generated_Response": "redundant values"
+    },
+    {
+        "Instruction": "What are the questions that you can generate from?",
+        "Answer": "specified instructions",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the questions that you can generate from?\n\n### Input:\n\n\n### Response:\nspecified instructions<|im_end|>",
+        "Generated_Response": "DeepSeek-V3"
+    },
+    {
+        "Instruction": "What is the 32B base model?",
+        "Answer": "14  Model AIME 2024",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the 32B base model?\n\n### Input:\n\n\n### Response:\n14  Model AIME 2024<|im_end|>",
+        "Generated_Response": "4096 tokens"
+    },
+    {
+        "Instruction": "What did the test cluster generate?",
+        "Answer": "25 storage nodes",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat did the test cluster generate?\n\n### Input:\n\n\n### Response:\n25 storage nodes<|im_end|>",
+        "Generated_Response": "more coherent and more accurate"
+    },
+    {
+        "Instruction": "Generate questions from: All entries within a directory naturally form a contiguous key range",
+        "Answer": "range queries",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nGenerate questions from: All entries within a directory naturally form a contiguous key range\n\n### Input:\n\n\n### Response:\nrange queries<|im_end|>",
+        "Generated_Response": "All entries within a directory naturally form a contiguous key range"
+    },
+    {
+        "Instruction": "What can be generated from the request?",
+        "Answer": "latest chain table",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat can be generated from the request?\n\n### Input:\n\n\n### Response:\nlatest chain table<|im_end|>",
+        "Generated_Response": "a cluster of GPUs"
+    },
+    {
+        "Instruction": "What does the Asynchronous zero-copy API generate?",
+        "Answer": "file system client",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat does the Asynchronous zero-copy API generate?\n\n### Input:\n\n\n### Response:\nfile system client<|im_end|>",
+        "Generated_Response": "asynchronous read/write operations"
+    },
+    {
+        "Instruction": "What is the name of the preprint of arXiv?",
+        "Answer": "Appendix A",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the name of the preprint of arXiv?\n\n### Input:\n\n\n### Response:\nAppendix A<|im_end|>",
+        "Generated_Response": "https://arxiv.org/abs/2310.06854"
+    },
+    {
+        "Instruction": "What is the DeepSeek-R1-Zero training program?",
+        "Answer": "a steady and consistent enhancement in performance",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the DeepSeek-R1-Zero training program?\n\n### Input:\n\n\n### Response:\na steady and consistent enhancement in performance<|im_end|>",
+        "Generated_Response": "DeepSeek-R1-Zero"
+    },
+    {
+        "Instruction": "What are the base models we use?",
+        "Answer": "Qwen2.5-Math-1.5B",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the base models we use?\n\n### Input:\n\n\n### Response:\nQwen2.5-Math-1.5B<|im_end|>",
+        "Generated_Response": "DeepSeek-V3 7B"
+    },
+    {
+        "Instruction": "What can the client generate?",
+        "Answer": "chunk IDs and chains",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat can the client generate?\n\n### Input:\n\n\n### Response:\nchunk IDs and chains<|im_end|>",
+        "Generated_Response": "the first chunk"
+    },
+    {
+        "Instruction": "What is the name of the preprint of arXiv?",
+        "Answer": "arXiv:2402.03300, 2024",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the name of the preprint of arXiv?\n\n### Input:\n\n\n### Response:\narXiv:2402.03300, 2024<|im_end|>",
+        "Generated_Response": "https://arxiv.org/abs/2307.16581"
+    },
+    {
+        "Instruction": "Who is the Jin 20 Ruyi Chen Shanghao Lu Shangyan Zhou",
+        "Answer": "Jin 20  Ruyi Chen Shanghao Lu Shangyan",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWho is the Jin 20 Ruyi Chen Shanghao Lu Shangyan Zhou\n\n### Input:\n\n\n### Response:\nJin 20  Ruyi Chen Shanghao Lu Shangyan<|im_end|>",
+        "Generated_Response": "the first phase"
+    },
+    {
+        "Instruction": "What is the main feature of DeepSeek-R1-Zero?",
+        "Answer": "poor readability, and language mixing",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the main feature of DeepSeek-R1-Zero?\n\n### Input:\n\n\n### Response:\npoor readability, and language mixing<|im_end|>",
+        "Generated_Response": "DeepSeek-R1-Zero"
+    },
+    {
+        "Instruction": "What is the name of the model that can be used to help us learn?",
+        "Answer": "DeepSeek-R1",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the name of the model that can be used to help us learn?\n\n### Input:\n\n\n### Response:\nDeepSeek-R1<|im_end|>",
+        "Generated_Response": "RL₄"
+    },
+    {
+        "Instruction": "What do we want to generate questions from?",
+        "Answer": "fine-tuned model",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat do we want to generate questions from?\n\n### Input:\n\n\n### Response:\nfine-tuned model<|im_end|>",
+        "Generated_Response": "a large amount of data"
+    },
+    {
+        "Instruction": "What will DeepSeek-R1 help the research community to distill better smaller models?",
+        "Answer": "open source",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat will DeepSeek-R1 help the research community to distill better smaller models?\n\n### Input:\n\n\n### Response:\nopen source<|im_end|>",
+        "Generated_Response": "DeepSeek-R1"
+    },
+    {
+        "Instruction": "What did DeepSeek generate one additional token?",
+        "Answer": "computational cost",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat did DeepSeek generate one additional token?\n\n### Input:\n\n\n### Response:\ncomputational cost<|im_end|>",
+        "Generated_Response": "RL"
+    },
+    {
+        "Instruction": "DeepSeek-R1 is able to write tasks and open-domain question answering.",
+        "Answer": "AlpacaEval2.0 and ArenaHard",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nDeepSeek-R1 is able to write tasks and open-domain question answering.\n\n### Input:\n\n\n### Response:\nAlpacaEval2.0 and ArenaHard<|im_end|>",
+        "Generated_Response": "DeepSeek-R1 can generate questions from reasoning tasks"
+    },
+    {
+        "Instruction": "What temperature is used to generate k responses for each question?",
+        "Answer": "sampling temperature of 0.6 and a top-𝑝value of 0.95",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat temperature is used to generate k responses for each question?\n\n### Input:\n\n\n### Response:\nsampling temperature of 0.6 and a top-𝑝value of 0.95<|im_end|>",
+        "Generated_Response": "0.8"
+    },
+    {
+        "Instruction": "What is the reference model for Llama 3.1?",
+        "Answer": "405B parameters, 15 T tokens",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the reference model for Llama 3.1?\n\n### Input:\n\n\n### Response:\n405B parameters, 15 T tokens<|im_end|>",
+        "Generated_Response": "LLMs"
+    },
+    {
+        "Instruction": "What is the PRM?",
+        "Answer": "Process Reward Model",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the PRM?\n\n### Input:\n\n\n### Response:\nProcess Reward Model<|im_end|>",
+        "Generated_Response": "PRM is a probabilistic roadmap method"
+    },
+    {
+        "Instruction": "What are the most remarkable aspects of self-evolution?",
+        "Answer": "the emergence of sophisticated behaviors",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the most remarkable aspects of self-evolution?\n\n### Input:\n\n\n### Response:\nthe emergence of sophisticated behaviors<|im_end|>",
+        "Generated_Response": "improving the model's performance on diverse tasks"
+    },
+    {
+        "Instruction": "What is the name of the test?",
+        "Answer": "DeepSeek-R1-Distill-Qwen",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the name of the test?\n\n### Input:\n\n\n### Response:\nDeepSeek-R1-Distill-Qwen<|im_end|>",
+        "Generated_Response": "DeepSeek-R1"
+    },
+    {
+        "Instruction": "What is the base model of DeepSeek?",
+        "Answer": "Reinforcement Learning on the Base Model",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the base model of DeepSeek?\n\n### Input:\n\n\n### Response:\nReinforcement Learning on the Base Model<|im_end|>",
+        "Generated_Response": "DeepSeek-Zero"
+    },
+    {
+        "Instruction": "What is the hierarchical load balancing policy?",
+        "Answer": "to harness the group-limited expert routing",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the hierarchical load balancing policy?\n\n### Input:\n\n\n### Response:\nto harness the group-limited expert routing<|im_end|>",
+        "Generated_Response": "The service requests are prioritized"
+    },
+    {
+        "Instruction": "What do we not use in developing DeepSeek-R1-Zero?",
+        "Answer": "the outcome or process neural reward model",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat do we not use in developing DeepSeek-R1-Zero?\n\n### Input:\n\n\n### Response:\nthe outcome or process neural reward model<|im_end|>",
+        "Generated_Response": "DeepSeek-R1-Zero"
+    },
+    {
+        "Instruction": "What does DeepSeek-R1-Zero generate questions from?",
+        "Answer": "test-time compu- tation",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat does DeepSeek-R1-Zero generate questions from?\n\n### Input:\n\n\n### Response:\ntest-time compu- tation<|im_end|>",
+        "Generated_Response": "a chain of reasoning"
+    },
+    {
+        "Instruction": "What are the main questions that you can ask about DeepSeek-V3?",
+        "Answer": "its performance exceeds the OpenAI model",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the main questions that you can ask about DeepSeek-V3?\n\n### Input:\n\n\n### Response:\nits performance exceeds the OpenAI model<|im_end|>",
+        "Generated_Response": "DeepSeek-V3"
+    },
+    {
+        "Instruction": "What is the name of the ring buffer used for communication between user process and native client?",
+        "Answer": "Ior",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the name of the ring buffer used for communication between user process and native client?\n\n### Input:\n\n\n### Response:\nIor<|im_end|>",
+        "Generated_Response": "Ring buffer"
+    },
+    {
+        "Instruction": "What are the most common types of questions that can be generated?",
+        "Answer": "Read operations exhibit more complex patterns",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the most common types of questions that can be generated?\n\n### Input:\n\n\n### Response:\nRead operations exhibit more complex patterns<|im_end|>",
+        "Generated_Response": "DeepSeek-V3"
+    },
+    {
+        "Instruction": "What are the most common questions that can be asked?",
+        "Answer": "reasoning capabilities",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the most common questions that can be asked?\n\n### Input:\n\n\n### Response:\nreasoning capabilities<|im_end|>",
+        "Generated_Response": "the model is trained on a large amount of data"
+    },
+    {
+        "Instruction": "What are the most common questions that can be generated from the file interface?",
+        "Answer": "well known and used everywhere.",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the most common questions that can be generated from the file interface?\n\n### Input:\n\n\n### Response:\nwell known and used everywhere.<|im_end|>",
+        "Generated_Response": "file descriptors"
+    },
+    {
+        "Instruction": "What does the allocation strategy ensure?",
+        "Answer": "balanced data distribution",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat does the allocation strategy ensure?\n\n### Input:\n\n\n### Response:\nbalanced data distribution<|im_end|>",
+        "Generated_Response": "the space required for each block"
+    },
+    {
+        "Instruction": "What is the name of the GitHub repo?",
+        "Answer": "DeepGEMM",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the name of the GitHub repo?\n\n### Input:\n\n\n### Response:\nDeepGEMM<|im_end|>",
+        "Generated_Response": "GitHub Repo"
+    },
+    {
+        "Instruction": "What are the experts of the same group to the same node?",
+        "Answer": "to reduce inter-node data traffic",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the experts of the same group to the same node?\n\n### Input:\n\n\n### Response:\nto reduce inter-node data traffic<|im_end|>",
+        "Generated_Response": "different"
+    },
+    {
+        "Instruction": "What is the default value for pass@kevaluation?",
+        "Answer": "𝑘evaluation",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the default value for pass@kevaluation?\n\n### Input:\n\n\n### Response:\n𝑘evaluation<|im_end|>",
+        "Generated_Response": "the first value"
+    },
+    {
+        "Instruction": "What will be generated from the AI@Meta. Llama 3.1 model card?",
+        "Answer": "16  References",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat will be generated from the AI@Meta. Llama 3.1 model card?\n\n### Input:\n\n\n### Response:\n16  References<|im_end|>",
+        "Generated_Response": "2024.1"
+    },
+    {
+        "Instruction": "What are the most common questions that are generated from the DeepSeek-V3?",
+        "Answer": "Claude-Sonnet-3.5-1022",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the most common questions that are generated from the DeepSeek-V3?\n\n### Input:\n\n\n### Response:\nClaude-Sonnet-3.5-1022<|im_end|>",
+        "Generated_Response": "DeepSeek-V3"
+    },
+    {
+        "Instruction": "What did the MoE architecture use to determine load balancing?",
+        "Answer": "Load Balancing Strategy",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat did the MoE architecture use to determine load balancing?\n\n### Input:\n\n\n### Response:\nLoad Balancing Strategy<|im_end|>",
+        "Generated_Response": "the number of available experts"
+    },
+    {
+        "Instruction": "What does 3FS not track file descriptors opened in read-only mode?",
+        "Answer": "training jobs",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat does 3FS not track file descriptors opened in read-only mode?\n\n### Input:\n\n\n### Response:\ntraining jobs<|im_end|>",
+        "Generated_Response": "all file descriptors"
+    },
+    {
+        "Instruction": "DeepSeek-R1 outperforms DeepSeek-V3 on the factual",
+        "Answer": "SimpleQA",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nDeepSeek-R1 outperforms DeepSeek-V3 on the factual\n\n### Input:\n\n\n### Response:\nSimpleQA<|im_end|>",
+        "Generated_Response": "DeepSeek-V3"
+    },
+    {
+        "Instruction": "What does DeepSeekV3 require to train?",
+        "Answer": "2.788M GPU hours",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat does DeepSeekV3 require to train?\n\n### Input:\n\n\n### Response:\n2.788M GPU hours<|im_end|>",
+        "Generated_Response": "few-shot data"
+    },
+    {
+        "Instruction": "What is the chain of targets?",
+        "Answer": "<code>A, B, C</code>",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the chain of targets?\n\n### Input:\n\n\n### Response:\n<code>A, B, C</code><|im_end|>",
+        "Generated_Response": "chain"
+    },
+    {
+        "Instruction": "What did we use to enhance test-time compute scalability?",
+        "Answer": "Monte Carlo Tree Search (MCTS)",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat did we use to enhance test-time compute scalability?\n\n### Input:\n\n\n### Response:\nMonte Carlo Tree Search (MCTS)<|im_end|>",
+        "Generated_Response": "FUSE"
+    },
+    {
+        "Instruction": "What is the name of the paper that was published in 2021?",
+        "Answer": "CoRR",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the name of the paper that was published in 2021?\n\n### Input:\n\n\n### Response:\nCoRR<|im_end|>",
+        "Generated_Response": "arXiv"
+    },
+    {
+        "Instruction": "What is the model's harmlessness?",
+        "Answer": "to identify and mitigate any potential risks, biases, or harmful content",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the model's harmlessness?\n\n### Input:\n\n\n### Response:\nto identify and mitigate any potential risks, biases, or harmful content<|im_end|>",
+        "Generated_Response": "the model is highly safe"
+    },
+    {
+        "Instruction": "What can be generated from the above?",
+        "Answer": "values",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat can be generated from the above?\n\n### Input:\n\n\n### Response:\nvalues<|im_end|>",
+        "Generated_Response": "a question"
+    },
+    {
+        "Instruction": "What is the name of the test that is used to determine the performance of DeepSeek-R",
+        "Answer": "Evaluation",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the name of the test that is used to determine the performance of DeepSeek-R\n\n### Input:\n\n\n### Response:\nEvaluation<|im_end|>",
+        "Generated_Response": "DeepSeek-R1"
+    },
+    {
+        "Instruction": "What does DeepSeek-R1-14B surpass on all evaluation metrics?",
+        "Answer": "QwQ-32B- Preview",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat does DeepSeek-R1-14B surpass on all evaluation metrics?\n\n### Input:\n\n\n### Response:\nQwQ-32B- Preview<|im_end|>",
+        "Generated_Response": "DeepSeek-R1-14B"
+    },
+    {
+        "Instruction": "What is the name of the author of the book?",
+        "Answer": "D. Hassabis",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the name of the author of the book?\n\n### Input:\n\n\n### Response:\nD. Hassabis<|im_end|>",
+        "Generated_Response": "Hugo Münsterberg"
+    },
+    {
+        "Instruction": "What does 3FS store in FoundationDB?",
+        "Answer": "all metadata as key-value pairs",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat does 3FS store in FoundationDB?\n\n### Input:\n\n\n### Response:\nall metadata as key-value pairs<|im_end|>",
+        "Generated_Response": "each chunk"
+    },
+    {
+        "Instruction": "What is the chain table constructed from?",
+        "Answer": "If each chunk has 3 replicas",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the chain table constructed from?\n\n### Input:\n\n\n### Response:\nIf each chunk has 3 replicas<|im_end|>",
+        "Generated_Response": "the metadata of the block"
+    },
+    {
+        "Instruction": "What does the profile employ for decoding?",
+        "Answer": "EP128, TP1",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat does the profile employ for decoding?\n\n### Input:\n\n\n### Response:\nEP128, TP1<|im_end|>",
+        "Generated_Response": "the forward process"
+    },
+    {
+        "Instruction": "What are the most common questions that are used in this section?",
+        "Answer": "AIME 2024, MATH-500, GPQA Diamond",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the most common questions that are used in this section?\n\n### Input:\n\n\n### Response:\nAIME 2024, MATH-500, GPQA Diamond<|im_end|>",
+        "Generated_Response": "AIDA"
+    },
+    {
+        "Instruction": "What is the name of the algorithm that selects Kr experts with high score?",
+        "Answer": "Topk",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the name of the algorithm that selects Kr experts with high score?\n\n### Input:\n\n\n### Response:\nTopk<|im_end|>",
+        "Generated_Response": "Gumbel-Max Trick"
+    },
+    {
+        "Instruction": "What do inodes store?",
+        "Answer": "attribute information",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat do inodes store?\n\n### Input:\n\n\n### Response:\nattribute information<|im_end|>",
+        "Generated_Response": "inode metadata"
+    },
+    {
+        "Instruction": "What are the reasoning process and answer enclosed within?",
+        "Answer": "</think> and <answer> </answer> tags",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the reasoning process and answer enclosed within?\n\n### Input:\n\n\n### Response:\n</think> and <answer> </answer> tags<|im_end|>",
+        "Generated_Response": "the model may fail to generate a chain-of-thought"
+    },
+    {
+        "Instruction": "What is the SFT dataset used for?",
+        "Answer": "DeepSeek-V3",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the SFT dataset used for?\n\n### Input:\n\n\n### Response:\nDeepSeek-V3<|im_end|>",
+        "Generated_Response": "supervised fine-tuning"
+    },
+    {
+        "Instruction": "What are the most common questions that are generated from the model?",
+        "Answer": "Model performance",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the most common questions that are generated from the model?\n\n### Input:\n\n\n### Response:\nModel performance<|im_end|>",
+        "Generated_Response": "DeepSeek-R1"
+    },
+    {
+        "Instruction": "What does a service send heartbeats from when all its storage targets have been marked offline?",
+        "Answer": "the latest chain tables",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat does a service send heartbeats from when all its storage targets have been marked offline?\n\n### Input:\n\n\n### Response:\nthe latest chain tables<|im_end|>",
+        "Generated_Response": "the service itself"
+    },
+    {
+        "Instruction": "What is the new file length adopted from?",
+        "Answer": "inode",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the new file length adopted from?\n\n### Input:\n\n\n### Response:\ninode<|im_end|>",
+        "Generated_Response": "all files"
+    },
+    {
+        "Instruction": "What did DeepSeekV3 generate?",
+        "Answer": "a cluster of 2,048 H800 GPUs",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat did DeepSeekV3 generate?\n\n### Input:\n\n\n### Response:\na cluster of 2,048 H800 GPUs<|im_end|>",
+        "Generated_Response": "512 tokens"
+    },
+    {
+        "Instruction": "What is the name of the operation that causes non-negligible overhead?",
+        "Answer": "file data is striped across multiple chains",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the name of the operation that causes non-negligible overhead?\n\n### Input:\n\n\n### Response:\nfile data is striped across multiple chains<|im_end|>",
+        "Generated_Response": "The name of the operation"
+    },
+    {
+        "Instruction": "What are the core contributors?",
+        "Answer": "Contributions and Acknowledgments",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the core contributors?\n\n### Input:\n\n\n### Response:\nContributions and Acknowledgments<|im_end|>",
+        "Generated_Response": "15%"
+    },
+    {
+        "Instruction": "What is the most important thing to do with the RL algorithm?",
+        "Answer": "optimizing the model’s performance over time",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the most important thing to do with the RL algorithm?\n\n### Input:\n\n\n### Response:\noptimizing the model’s performance over time<|im_end|>",
+        "Generated_Response": "the training process"
+    },
+    {
+        "Instruction": "What do MTP modules send out?",
+        "Answer": "output of prediction",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat do MTP modules send out?\n\n### Input:\n\n\n### Response:\noutput of prediction<|im_end|>",
+        "Generated_Response": "MTP modules"
+    },
+    {
+        "Instruction": "What are the rewards for DeepSeek-R1-Zero?",
+        "Answer": "Accuracy rewards",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the rewards for DeepSeek-R1-Zero?\n\n### Input:\n\n\n### Response:\nAccuracy rewards<|im_end|>",
+        "Generated_Response": "30%"
+    },
+    {
+        "Instruction": "What should be transferred if the chain versions of local/remote chunk replicas are the",
+        "Answer": "local committed version number",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat should be transferred if the chain versions of local/remote chunk replicas are the\n\n### Input:\n\n\n### Response:\nlocal committed version number<|im_end|>",
+        "Generated_Response": "not equal"
+    },
+    {
+        "Instruction": "What does the encoding avoid?",
+        "Answer": "redundant computations",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat does the encoding avoid?\n\n### Input:\n\n\n### Response:\nredundant computations<|im_end|>",
+        "Generated_Response": "repetition penalty"
+    },
+    {
+        "Instruction": "What can the model learn and prepare for?",
+        "Answer": "additional tokens",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat can the model learn and prepare for?\n\n### Input:\n\n\n### Response:\nadditional tokens<|im_end|>",
+        "Generated_Response": "the next token"
+    },
+    {
+        "Instruction": "What is the starting point for RL?",
+        "Answer": "DeepSeek-V3-Base",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the starting point for RL?\n\n### Input:\n\n\n### Response:\nDeepSeek-V3-Base<|im_end|>",
+        "Generated_Response": "initial state"
+    },
+    {
+        "Instruction": "What are the researchers looking at in the moment?",
+        "Answer": "its behavior",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the researchers looking at in the moment?\n\n### Input:\n\n\n### Response:\nits behavior<|im_end|>",
+        "Generated_Response": "the most common questions"
+    },
+    {
+        "Instruction": "What does the assistant generate?",
+        "Answer": "the answer",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat does the assistant generate?\n\n### Input:\n\n\n### Response:\nthe answer<|im_end|>",
+        "Generated_Response": "an additional layer"
+    },
+    {
+        "Instruction": "What is the name of the program that is used to teach Reinforcement Learning?",
+        "Answer": "Rejection Sampling and Supervised Fine-Tuning",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the name of the program that is used to teach Reinforcement Learning?\n\n### Input:\n\n\n### Response:\nRejection Sampling and Supervised Fine-Tuning<|im_end|>",
+        "Generated_Response": "DeepSeek-R1"
+    },
+    {
+        "Instruction": "What are the names of the bubbles and memory usage comparison?",
+        "Answer": "Pipeline Bubbles and Memory Usage Comparison",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the names of the bubbles and memory usage comparison?\n\n### Input:\n\n\n### Response:\nPipeline Bubbles and Memory Usage Comparison<|im_end|>",
+        "Generated_Response": "136GB"
+    },
+    {
+        "Instruction": "What does the sparse activation of the model generate?",
+        "Answer": "compute requirements",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat does the sparse activation of the model generate?\n\n### Input:\n\n\n### Response:\ncompute requirements<|im_end|>",
+        "Generated_Response": "more efficient and effective"
+    },
+    {
+        "Instruction": "What is the total GPU hours?",
+        "Answer": "5K GPU hours",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the total GPU hours?\n\n### Input:\n\n\n### Response:\n5K GPU hours<|im_end|>",
+        "Generated_Response": "2185000"
+    },
+    {
+        "Instruction": "What can be generated from two chain tables?",
+        "Answer": "batch/offline jobs and another for online services",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat can be generated from two chain tables?\n\n### Input:\n\n\n### Response:\nbatch/offline jobs and another for online services<|im_end|>",
+        "Generated_Response": "chain table"
+    },
+    {
+        "Instruction": "What does a storage service do when it finds a previously offline successor is online?",
+        "Answer": "starts to forward normal write requests to the successor",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat does a storage service do when it finds a previously offline successor is online?\n\n### Input:\n\n\n### Response:\nstarts to forward normal write requests to the successor<|im_end|>",
+        "Generated_Response": "reassign requests"
+    },
+    {
+        "Instruction": "What are the most common questions that you can ask?",
+        "Answer": "different experts may vary depending on the current workload",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the most common questions that you can ask?\n\n### Input:\n\n\n### Response:\ndifferent experts may vary depending on the current workload<|im_end|>",
+        "Generated_Response": "reasoning time and memory limit"
+    },
+    {
+        "Instruction": "What are the building blocks of our online service?",
+        "Answer": "documented, deployed and battle-tested in production",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the building blocks of our online service?\n\n### Input:\n\n\n### Response:\ndocumented, deployed and battle-tested in production<|im_end|>",
+        "Generated_Response": "DeepSeek-R1"
+    },
+    {
+        "Instruction": "What is the name of the preprint for the book?",
+        "Answer": "arXiv",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the name of the preprint for the book?\n\n### Input:\n\n\n### Response:\narXiv<|im_end|>",
+        "Generated_Response": "arXiv"
+    },
+    {
+        "Instruction": "What do you want to learn about the model?",
+        "Answer": "reasoning",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat do you want to learn about the model?\n\n### Input:\n\n\n### Response:\nreasoning<|im_end|>",
+        "Generated_Response": "reasoning through reasoning data"
+    },
+    {
+        "Instruction": "What did we use to generate questions?",
+        "Answer": "rule-based rewards",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat did we use to generate questions?\n\n### Input:\n\n\n### Response:\nrule-based rewards<|im_end|>",
+        "Generated_Response": "DeepSeek-R1"
+    },
+    {
+        "Instruction": "What are the questions that you can ask from the post-training?",
+        "Answer": "supervised fine-tuning",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the questions that you can ask from the post-training?\n\n### Input:\n\n\n### Response:\nsupervised fine-tuning<|im_end|>",
+        "Generated_Response": "post-training data"
+    },
+    {
+        "Instruction": "What are the MTP modules discarded?",
+        "Answer": "one token per prediction",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the MTP modules discarded?\n\n### Input:\n\n\n### Response:\none token per prediction<|im_end|>",
+        "Generated_Response": "the first 16 bytes"
+    },
+    {
+        "Instruction": "What do applications use to create lightweight snapshots of dynamically updated datasets?",
+        "Answer": "symbolic and hard links",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat do applications use to create lightweight snapshots of dynamically updated datasets?\n\n### Input:\n\n\n### Response:\nsymbolic and hard links<|im_end|>",
+        "Generated_Response": "filesystem meta data"
+    },
+    {
+        "Instruction": "What is the name of the question that can be generated from a storage service?",
+        "Answer": "acknowledgment message",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the name of the question that can be generated from a storage service?\n\n### Input:\n\n\n### Response:\nacknowledgment message<|im_end|>",
+        "Generated_Response": "the client"
+    },
+    {
+        "Instruction": "What does the service iterate the local chunk metadata store to collect?",
+        "Answer": "the ids",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat does the service iterate the local chunk metadata store to collect?\n\n### Input:\n\n\n### Response:\nthe ids<|im_end|>",
+        "Generated_Response": "the chunk IDs"
+    }
+]
